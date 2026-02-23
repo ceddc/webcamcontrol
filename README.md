@@ -2,6 +2,11 @@
 
 Experience Builder custom widget for webcam-driven hand-gesture map control.
 
+## References
+
+- ArcGIS Experience Builder SDK Samples: https://github.com/Esri/arcgis-experience-builder-sdk-resources
+- Official ArcGIS Experience Builder page: https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview
+
 ## Prompt History
 
 1. Can you read 5 widget sampleem and write yourself a doc in the root on how to create a working experience builder widget ?
