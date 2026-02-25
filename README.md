@@ -2,6 +2,19 @@
 
 Experience Builder custom widget for webcam-driven hand-gesture map control.
 
+## Local Layout
+
+- Canonical repo: `/home/ced/dev/projects/expb/webcamcontrol`
+- Deployed copy for ExB runtime: `/home/ced/dev/projects/expb/expb119/client/your-extensions/webcamcontrol`
+
+## Deploy to Extension Folder
+
+Run this from the repo root to copy current widget sources into the Experience Builder extension folder:
+
+```bash
+bash scripts/deploy-to-expb.sh
+```
+
 ## References
 
 - ArcGIS Experience Builder SDK Samples: https://github.com/Esri/arcgis-experience-builder-sdk-resources
